@@ -1,6 +1,7 @@
 import React from 'react';
 import Board from './board'
 import './index.css';
+import './responsive.css';
 
 // Calculate Winner
 function calculateWinner(squares) {
